@@ -40,17 +40,7 @@
 </div>
 
 <hr/>
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dayZgarden&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayZgarden&theme=tokyonight)
-  
-</div>
-
 <hr/>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=dayZgarden&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
