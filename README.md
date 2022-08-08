@@ -1,12 +1,3 @@
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Zyad+Alkurdi...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</div>
-
-<hr>
-
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
