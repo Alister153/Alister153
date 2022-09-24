@@ -18,7 +18,7 @@
 [![cpp][cpp]][cpp-url]
 [![python][python]][python-url]
 [![java][java]][java-url]
-[![tailwind][tailwind-url]]
+[![tailwind][tailwind]][tailwind-url]
 </div>
 
 <hr/>
