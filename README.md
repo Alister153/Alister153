@@ -18,7 +18,7 @@
 [![cpp][cpp]][cpp-url]
 [![python][python]][python-url]
 [![java][java]][java-url]
-    
+[![tailwind][tailwind-url]]
 </div>
 
 <hr/>
@@ -68,3 +68,5 @@
 [javascript-url]: https://www.javascript.com/
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org/
+[tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwind-url]: https://tailwindcss.com/
