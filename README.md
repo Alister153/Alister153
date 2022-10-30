@@ -24,7 +24,8 @@
 <hr/>
 <div align="center">
     <h1>Hi I'm Alister Xavier</h1>
-    <p color="green">A Frontend developer.</p>
+    <p>A Frontend developer.</p>
+    <a href="">Check out my Portfolio here.</a>
 </div>
 <hr/>
 
