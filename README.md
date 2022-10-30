@@ -22,7 +22,9 @@
 </div>
 
 <hr/>
-<p>Hi I'm Alister Xavier</p>
+<div align="center">
+    <h1>Hi I'm Alister Xavier</h1>
+</div>
 <hr/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
