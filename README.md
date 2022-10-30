@@ -22,6 +22,7 @@
 </div>
 
 <hr/>
+<p>Hi I'm Alister Xavier</p>
 <hr/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
