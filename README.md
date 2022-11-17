@@ -1,3 +1,12 @@
+<div align="center">
+    <h1>Hi I'm Alister Xavier</h1>
+    <a href="https://alisterxavier.vercel.app/">Portfolio</a>
+
+[![linkedin]][linkedin-url]
+</div>
+
+<hr/>
+
 <h3 align="center">Frontend Developer</h3>
 
 <div align="center">
@@ -21,11 +30,6 @@
 [![tailwind][tailwind]][tailwind-url]
 </div>
 
-<hr/>
-<div align="center">
-    <h1>Hi I'm Alister Xavier</h1>
-    <a href="https://alisterxavier.vercel.app/">Portfolio</a>
-</div>
 <hr/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
