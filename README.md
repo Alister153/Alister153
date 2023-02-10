@@ -11,23 +11,24 @@
 
 <div align="center">
     
-[![react][react]][react-url]
 [![html][html]][html-url]
 [![css][css]][css-url]
-[![javascript][javascript]][javascript-url]
-[![node][node]][node-url]
-[![next][next]][next-url]
+[![tailwind][tailwind]][tailwind-url]
 [![bootstrap][bootstrap]][bootstrap-url]
-[![npm][npm]][npm-url]
-[![mui][mui]][mui-url]
+[![typescript][typescript]][typescript-url]
+[![javascript][javascript]][javascript-url]
+[![react][react]][react-url]
 [![react-router][react-router]][react-router-url]
 [![react-query][react-query]][react-query-url]
 [![three][three]][three-url]
 [![vite][vite]][vite-url]
+[![node][node]][node-url]
+[![next][next]][next-url]
+[![npm][npm]][npm-url]
+[![mui][mui]][mui-url]
 [![cpp][cpp]][cpp-url]
 [![python][python]][python-url]
 [![java][java]][java-url]
-[![tailwind][tailwind]][tailwind-url]
 </div>
 
 <hr/>
@@ -78,3 +79,5 @@
 [python-url]: https://www.python.org/
 [tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
+[typescript]: https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white
+[typescript-url]: https://www.typescriptlang.org/
