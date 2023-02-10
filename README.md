@@ -19,7 +19,6 @@
 [![javascript][javascript]][javascript-url]
 [![react][react]][react-url]
 [![react-router][react-router]][react-router-url]
-[![react-query][react-query]][react-query-url]
 [![three][three]][three-url]
 [![vite][vite]][vite-url]
 [![node][node]][node-url]
