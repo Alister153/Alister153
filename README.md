@@ -1,6 +1,8 @@
 <div align="center">
     <h1>Hi I'm Alister Xavier</h1>
-    <a href="https://alisterxavier.vercel.app/">Portfolio</a>
+    <div>
+        <a href="https://alisterxavier.vercel.app/">Portfolio</a>
+    </div>
 
 [![linkedin]][linkedin-url]
 </div>
@@ -18,12 +20,10 @@
 [![typescript][typescript]][typescript-url]
 [![javascript][javascript]][javascript-url]
 [![react][react]][react-url]
-[![react-router][react-router]][react-router-url]
+[![vue][vue]][vue-url]
 [![three][three]][three-url]
-[![vite][vite]][vite-url]
 [![node][node]][node-url]
 [![next][next]][next-url]
-[![npm][npm]][npm-url]
 [![mui][mui]][mui-url]
 [![cpp][cpp]][cpp-url]
 [![python][python]][python-url]
@@ -54,6 +54,8 @@
 [node-url]: https://nodejs.org/en/
 [react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [react-url]: https://reactjs.org/
+[vue]:https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[vue-url]:https://vuejs.org/
 [react-query]: https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white
 [react-query-url]: https://www.npmjs.com/package/react-query
 [react-router]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
