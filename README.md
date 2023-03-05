@@ -10,7 +10,7 @@
 
 <hr/>
 
-<p>My stack:</p>
+<h3>My stack:</h3>
 <div>
     
 [![html][html]][html-url]
