@@ -1,17 +1,17 @@
-<div align="center">
-    <h1>Hi I'm Alister Xavier</h1>
+<div>
+    <h1>Hey, I'm Alister Xavier</h1>
+    <h3>A Frontend Developer</h3>
     <div>
-        <a href="https://alisterxavier.vercel.app/">Portfolio</a>
-    </div>
-
+        Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a>
+    </div><br>
+    
 [![linkedin]][linkedin-url]
 </div>
 
 <hr/>
 
-<h3 align="center">Frontend Developer</h3>
-
-<div align="center">
+<p>My stack:</p>
+<div>
     
 [![html][html]][html-url]
 [![css][css]][css-url]
@@ -33,7 +33,6 @@
 <hr/>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:xavieralister153@gmail.com
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
