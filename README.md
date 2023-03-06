@@ -9,7 +9,6 @@
 </div>
 
 <hr/>
-
 <h3>My stack:</h3>
 <div>
     
