@@ -2,7 +2,8 @@
     <h1>Hey, I'm Alister Xavier</h1>
     <h3>A Frontend Developer</h3>
     <div>
-        Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a>
+        <p>I'm currently a Uni student.</p>
+        <p>Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a></p>
     </div><br>
     
 [![linkedin]][linkedin-url]
