@@ -31,6 +31,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=alisterXavier&theme=tokyonight&show_icons=true)](https://github.com/alisterXavier)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisterXavier&theme=tokyonight)
 <hr/>
 
