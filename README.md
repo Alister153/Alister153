@@ -1,11 +1,11 @@
 <div>
     <h1>Hey, I'm Alister Xavier</h1>
     <h3>A Frontend Developer</h3>
-    <div>
-        <p>Currently a final year uni student.</p>
-        <p>Curious about web development and cybersecurity🕵️</p>
-        <p>Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a></p>
-    </div><br>
+    <ul>
+        <li>Currently a final year uni student.</li>
+        <li>Curious about web development and cybersecurity🕵️</li>
+        <li>Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a></li>
+    </ul><br>
     
 [![linkedin]][linkedin-url]
 </div>
