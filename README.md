@@ -3,7 +3,7 @@
     <h3>A Frontend Developer</h3>
     <ul>
         <li>Currently a final year uni student.</li>
-        <li>Curious about web development and cybersecurity🕵️</li>
+        <li>Curious about web development🕵️</li>
         <li>Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a></li>
     </ul><br>
     
