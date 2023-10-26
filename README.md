@@ -1,7 +1,6 @@
 <div>
     <h1>Hey, I'm Alister Xavier</h1>
     <ul>
-        <li>Currently a final year uni student.</li>
         <li>Here's my portfolio: <a href="https://alisterxavier.vercel.app/">https://alisterxavier.vercel.app/</a></li>
     </ul><br>
     
