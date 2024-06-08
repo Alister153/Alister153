@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=alisterXavier&theme=tokyonight&show_icons=true)](https://github.com/alisterXavier)
 <div style="display:flex; flex-wrap:warp">
     <img src="./github-metrics.svg" />
-    <img src="./github-metrics.svg" />
+    <img src="./metrics.plugin.languages.indepth.svg" />
     <img src="./metrics.plugin.leetcode.svg" />    
 </div>
 
