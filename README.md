@@ -29,11 +29,8 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=alisterXavier&theme=tokyonight&show_icons=true)](https://github.com/alisterXavier)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisterXavier&theme=tokyonight)
-<hr/>
-
-<div style="display:flex">
+<div style="display:flex; flex-wrap:warp">
+    <img src="./github-metrics.svg" />
     <img src="./github-metrics.svg" />
     <img src="./metrics.plugin.leetcode.svg" />    
 </div>
