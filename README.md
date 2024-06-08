@@ -33,8 +33,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisterXavier&theme=tokyonight)
 <hr/>
 
-<img src="./github-metrics.svg" />
-<img src="./metrics.plugin.leetcode.svg" />
+<div style="display:flex">
+    <img src="./github-metrics.svg" />
+    <img src="./metrics.plugin.leetcode.svg" />    
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
