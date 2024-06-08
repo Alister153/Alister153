@@ -33,6 +33,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisterXavier&theme=tokyonight)
 <hr/>
 
+<img src="./github-metrics.svg" />
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:xavieralister153@gmail.com
