@@ -34,6 +34,7 @@
 <hr/>
 
 <img src="./github-metrics.svg" />
+<img src="./metrics.plugin.leetcode.svg" />
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [gmail]: 	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
