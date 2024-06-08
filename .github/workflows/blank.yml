@@ -19,5 +19,6 @@ jobs:
           token: ${{ secrets.METRICS }}
           filename: metrics.plugin.leetcode.svg
           base: ""
+          plugin_leetcode_user: typewriter404
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
