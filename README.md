@@ -8,25 +8,6 @@
 </div>
 
 <hr/>
-<h3>My stack:</h3>
-<div>
-    
-[![html][html]][html-url]
-[![css][css]][css-url]
-[![tailwind][tailwind]][tailwind-url]
-[![bootstrap][bootstrap]][bootstrap-url]
-[![typescript][typescript]][typescript-url]
-[![javascript][javascript]][javascript-url]
-[![react][react]][react-url]
-[![vue][vue]][vue-url]
-[![three][three]][three-url]
-[![node][node]][node-url]
-[![next][next]][next-url]
-[![mui][mui]][mui-url]
-[![cpp][cpp]][cpp-url]
-[![python][python]][python-url]
-[![java][java]][java-url]
-</div>
 
 <img src="./metrics.plugin.languages.indepth.svg" />
 <div style="display:flex; flex-wrap:warp">
