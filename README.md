@@ -12,7 +12,6 @@
 <img src="./metrics.plugin.languages.indepth.svg" />
 <div style="display:flex; flex-wrap:warp">
     <img src="./github-metrics.svg" />
-    <img src="./metrics.plugin.leetcode.svg" />    
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
