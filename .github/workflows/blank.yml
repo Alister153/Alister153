@@ -19,14 +19,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS }}
-          filename: metrics.plugin.leetcode.svg
-          base: ""
-          plugin_leetcode_user: typewriter404
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.METRICS }}
+      #     filename: metrics.plugin.leetcode.svg
+      #     base: ""
+      #     plugin_leetcode_user: typewriter404
+      #     plugin_leetcode: yes
+      #     plugin_leetcode_sections: solved, skills, recent
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
